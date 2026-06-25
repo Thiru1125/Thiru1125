@@ -38,14 +38,6 @@ Feed Forward aims to create a sustainable ecosystem where surplus food reaches t
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-## 💼 Internship Experience
-
-### Full Stack Development Intern
-
-* Developed responsive and interactive web applications.
-* Worked with frontend and backend technologies.
-* Implemented database integration and CRUD operations.
-* Enhanced problem-solving and software development skills through real-world projects.
 
 ## 🎯 Current Goals
 
@@ -57,7 +49,9 @@ Feed Forward aims to create a sustainable ecosystem where surplus food reaches t
 
 ## 📫 Connect With Me
 
-* LinkedIn: Add Your LinkedIn URL
+* LinkedIn: www.linkedin.com/in/thiru-murugan-ba99a334a
+
+
 * GitHub: Add Your GitHub URL
 * Email: Add Your Email
 
