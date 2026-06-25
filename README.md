@@ -47,10 +47,23 @@ Feed Forward aims to create a sustainable ecosystem where surplus food reaches t
 * Contribute to Open Source Projects
 * Become a Software Development Engineer
 
-## 📬 Connect With Me
-<a href="www.linkedin.com/in/thiru-murugan-ba99a334a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiru-murugan-ba99a334a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Thiru%20Murugan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://github.com/Thiru1125" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Thiru1125-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>🚀 Final-Year Computer Engineering Student</b><br>
+  Java Developer • Full Stack Developer • UI/UX Designer • Cloud Computing Enthusiast
+</p>
+
 
 ## 💡 Turning Ideas into Code | ☁️ Cloud Enthusiast | 🎨 UI/UX Designer
 
