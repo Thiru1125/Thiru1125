@@ -59,15 +59,6 @@ Feed Forward aims to create a sustainable ecosystem where surplus food reaches t
   </a>
 </p>
 
-<p align="center">
-  <b>🚀 Final-Year Computer Engineering Student</b><br>
-  Java Developer • Full Stack Developer • UI/UX Designer • Cloud Computing Enthusiast
-</p>
-
-
-## 💡 Turning Ideas into Code | ☁️ Cloud Enthusiast | 🎨 UI/UX Designer
-
-
 ### ⚡ Fun Fact
 
 I enjoy transforming ideas into impactful software solutions and creating user-friendly digital experiences through both development and design.
