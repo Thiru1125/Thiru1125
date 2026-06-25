@@ -50,12 +50,14 @@ Feed Forward aims to create a sustainable ecosystem where surplus food reaches t
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiru-murugan-ba99a334a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Thiru%20Murugan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/thiru-murugan-ba99a334a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
 
-  <a href="https://github.com/Thiru1125" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Thiru1125-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/Thiru1125">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
